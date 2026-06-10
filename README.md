@@ -13,7 +13,7 @@ Building real-world web apps with Node.js, Express & MongoDB<br>Currently master
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adityatiwari2112&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityatiwari2112&layout=compact&theme=tokyonight&count_private=true)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityatiwari2112&theme=tokyonight)
 
